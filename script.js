@@ -1,5 +1,5 @@
-// Target: May 16, 2026, 4:30 PM (local time)
-const TARGET = new Date(2026, 4, 16, 16, 30, 0).getTime();
+// Target: May 22, 2026, 4:30 PM (local time)
+const TARGET = new Date(2026, 4, 22, 16, 30, 0).getTime();
 
 const els = {
   d: document.getElementById('d'),
